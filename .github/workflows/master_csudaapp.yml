@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'csudaapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_a83d4341bb084780931740add16216d6 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_0e0466e32ae84f499d5f303955e556d6 }}
